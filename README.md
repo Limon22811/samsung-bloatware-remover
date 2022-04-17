@@ -18,6 +18,6 @@
 
 
 <h6>Installation:</h6>
-1. Download and Extract adb
-2. Add adb path to environment variables user path
-3. now run ths bat as admin
+(1) Download and Extract adb
+(2) Add adb path to environment variables user path
+(3) now run ths bat as admin
