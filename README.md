@@ -19,7 +19,7 @@
 
 <h4>Installation:</h6>
 <ol type="1">
- <li>Download and Extract <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">adb</li>
+ <li>Download and Extract <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">adb</a></li>
  <li>Add adb path to the environment variables in user path</li>
  <li>Run ths SamsungRemBloatware.bat as admin</li>
 </ol>
