@@ -1,5 +1,5 @@
 <h1>Only For Samsung Android Verson 5.1.1</h1>
-<h6>Table of bloatware that will be removed:</h6>
+<h4>Table of bloatware that will be removed:</h6>
 <ul>
  <li>Samsung Video Player</li>
  <li>Samsung Mail</li>
@@ -17,7 +17,9 @@
 </ul>
 
 
-<h6>Installation:</h6>
-(1) Download and Extract adb
-(2) Add adb path to environment variables user path
-(3) now run ths bat as admin
+<h4>Installation:</h6>
+<ol type="1">
+ <li>Download and Extract <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">adb</li>
+ <li>Add adb path to the environment variables in user path</li>
+ <li>Run ths SamsungRemBloatware.bat as admin</li>
+</ol>
